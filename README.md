@@ -9,3 +9,7 @@ git status
 eu vou aletrara cenas aqui na cena do vim
 
 now i'm making more changes
+
+change in the git UI so I make a pull ;)
+
+
