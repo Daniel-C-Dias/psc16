@@ -6,3 +6,4 @@ cd [nome da pasta]
 
 git status
 
+eu vou aletrara cenas aqui na cena do vim
